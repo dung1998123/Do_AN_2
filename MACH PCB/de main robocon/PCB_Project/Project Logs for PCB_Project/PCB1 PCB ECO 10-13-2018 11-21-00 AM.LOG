@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=24V Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=24V Pin=P4-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R18-2
+Change Component Footprint: Designator=D2 Old Footprint=D5A New Footprint=D1A
+Change Component Comment : Designator=D2 Old Comment=1N5408 New Comment=1N4007
+Change component parameters: Designator = "D2"; Footprint = "D1A"; UniqueID = "\LSLTNFQF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=D1-1
+Added Pin To Net: NetName=24V Pin=D1-2
+Added Pin To Net: NetName=5v Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=P4-1
+Added Pin To Net: NetName=24V Pin=R18-2
+Added Pin To Net: NetName=5v Pin=R19-2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD1_1
+Change Net Name : Old Net Name=VDK New Net Name=NetD2_1

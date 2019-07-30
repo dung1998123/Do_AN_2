@@ -1,0 +1,6 @@
+Added Component: Designator=IC2(SO-G16/X.6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ULN2003A"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 ULN2003A

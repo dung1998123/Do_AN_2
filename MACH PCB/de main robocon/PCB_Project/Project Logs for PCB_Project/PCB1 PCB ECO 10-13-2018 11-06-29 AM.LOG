@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=1 Pin=RELAY 1-1
+Added Pin To Net: NetName=1 Pin=RELAY 1-2
+Added Pin To Net: NetName=2 Pin=RELAY 1-3
+Added Pin To Net: NetName=2 Pin=RELAY 1-4
+Added Pin To Net: NetName=4 Pin=RELAY 1-5
+Added Pin To Net: NetName=4 Pin=RELAY 1-6
+Added Pin To Net: NetName=3 Pin=RELAY 1-7
+Added Pin To Net: NetName=3 Pin=RELAY 1-8
+Change Net Name : Old Net Name=R5 New Net Name=NetLabel188
+Change Net Name : Old Net Name=R6 New Net Name=NetLabel189
+Change Net Name : Old Net Name=R7 New Net Name=NetLabel190
+Change Net Name : Old Net Name=R8 New Net Name=NetLabel191

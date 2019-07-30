@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=I1 Pin=R3-2
+Removed Pin From Net: NetName=I2 Pin=R3-3
+Removed Pin From Net: NetName=I3 Pin=R3-4
+Removed Pin From Net: NetName=I4 Pin=R3-5
+Removed Pin From Net: NetName=I5 Pin=R3-6
+Removed Pin From Net: NetName=I6 Pin=R3-7
+Removed Pin From Net: NetName=I7 Pin=R3-8
+Removed Pin From Net: NetName=I8 Pin=R3-9
+Added Pin To Net: NetName=I8 Pin=R3-2
+Added Pin To Net: NetName=I7 Pin=R3-3
+Added Pin To Net: NetName=I6 Pin=R3-4
+Added Pin To Net: NetName=I5 Pin=R3-5
+Added Pin To Net: NetName=I4 Pin=R3-6
+Added Pin To Net: NetName=I3 Pin=R3-7
+Added Pin To Net: NetName=I2 Pin=R3-8
+Added Pin To Net: NetName=I1 Pin=R3-9

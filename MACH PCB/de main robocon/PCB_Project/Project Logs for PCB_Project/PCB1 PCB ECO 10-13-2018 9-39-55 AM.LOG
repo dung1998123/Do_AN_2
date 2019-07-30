@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=I1 Pin=IC1-1
+Removed Pin From Net: NetName=I2 Pin=IC1-2
+Removed Pin From Net: NetName=I3 Pin=IC1-3
+Removed Pin From Net: NetName=I4 Pin=IC1-4
+Removed Pin From Net: NetName=I5 Pin=IC1-5
+Removed Pin From Net: NetName=I6 Pin=IC1-6
+Removed Pin From Net: NetName=I7 Pin=IC1-7
+Removed Pin From Net: NetName=I8 Pin=IC1-8
+Removed Pin From Net: NetName=GND 24 Pin=IC1-9
+Removed Pin From Net: NetName=24V Pin=IC1-10
+Removed Pin From Net: NetName=NetIC1_11 Pin=IC1-11
+Removed Pin From Net: NetName=NetIC1_12 Pin=IC1-12
+Removed Pin From Net: NetName=NetIC1_13 Pin=IC1-13
+Removed Pin From Net: NetName=NetIC1_14 Pin=IC1-14
+Removed Pin From Net: NetName=NetIC1_15 Pin=IC1-15
+Removed Pin From Net: NetName=NetIC1_16 Pin=IC1-16
+Removed Pin From Net: NetName=NetIC1_18 Pin=P1-1
+Removed Pin From Net: NetName=NetIC1_17 Pin=P1-2
+Removed Pin From Net: NetName=NetIC1_15 Pin=P2-1
+Removed Pin From Net: NetName=NetIC1_14 Pin=P2-2
+Removed Pin From Net: NetName=NetIC1_13 Pin=P2-3
+Removed Pin From Net: NetName=NetIC1_12 Pin=P3-1
+Removed Pin From Net: NetName=NetIC1_11 Pin=P3-2
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Removed Member From Class: ClassName=Sheet1 Member=IC2
+Added Component: Designator=U9(DIP 18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "ULN2803"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_15 Pin=P1-1
+Added Pin To Net: NetName=NetIC1_11 Pin=P1-2
+Added Pin To Net: NetName=NetIC1_12 Pin=P2-1
+Added Pin To Net: NetName=NetIC1_17 Pin=P2-2
+Added Pin To Net: NetName=NetIC1_18 Pin=P2-3
+Added Pin To Net: NetName=NetIC1_13 Pin=P3-1
+Added Pin To Net: NetName=NetIC1_14 Pin=P3-2
+Added Pin To Net: NetName=I1 Pin=U9-1
+Added Pin To Net: NetName=I2 Pin=U9-2
+Added Pin To Net: NetName=I3 Pin=U9-3
+Added Pin To Net: NetName=I4 Pin=U9-4
+Added Pin To Net: NetName=I5 Pin=U9-5
+Added Pin To Net: NetName=I6 Pin=U9-6
+Added Pin To Net: NetName=I7 Pin=U9-7
+Added Pin To Net: NetName=I8 Pin=U9-8
+Added Pin To Net: NetName=GND 24 Pin=U9-9
+Added Pin To Net: NetName=24V Pin=U9-10
+Added Pin To Net: NetName=NetIC1_14 Pin=U9-11
+Added Pin To Net: NetName=NetIC1_13 Pin=U9-12
+Added Pin To Net: NetName=NetIC1_18 Pin=U9-13
+Added Pin To Net: NetName=NetIC1_17 Pin=U9-14
+Added Pin To Net: NetName=NetIC1_12 Pin=U9-15
+Added Pin To Net: NetName=NetIC1_16 Pin=U9-16
+Added Pin To Net: NetName=NetIC1_11 Pin=U9-17
+Added Pin To Net: NetName=NetIC1_15 Pin=U9-18
+Change Net Name : Old Net Name=NetIC1_11 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetIC1_12 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetIC1_13 New Net Name=NetP3_1
+Change Net Name : Old Net Name=NetIC1_14 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetIC1_15 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetIC1_16 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetIC1_17 New Net Name=NetP2_2
+Change Net Name : Old Net Name=NetIC1_18 New Net Name=NetP2_3
+Added Member To Class: ClassName=Sheet1 Member=Component U9 IC
